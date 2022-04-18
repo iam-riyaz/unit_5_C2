@@ -1,0 +1,17 @@
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+#main{
+    text-align: center;
+}
+.controls{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.table{
+    margin: auto;
+}
